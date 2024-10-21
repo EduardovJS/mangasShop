@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MangasShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffecddf9ef46b04b7e49e4980cc21bcded0fbdf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MangasShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MangasShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
